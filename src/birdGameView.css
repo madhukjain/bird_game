@@ -1,0 +1,38 @@
+#sparrow{
+  position: relative;
+  margin-left: 1150px;
+  width:25%;
+  height: 25%;
+}
+
+button{
+  shape-outside:padding-box;
+  margin-top: 5px;
+  margin-left: 650px;
+  font-size: 30px;
+}
+
+.stick{
+  position: absolute;
+  top: 0px;
+}
+
+#wallPaper{
+  border: 5px solid black;
+  height:700px;
+  width: 1500px;
+  background-image: url('nature.png');
+}
+
+img{
+  padding-left: 20px;
+}
+
+input{
+  font-size: 25px;
+  width:300px;
+  height:40px;
+  background-color:lightBlue;
+  margin-left: 500px;
+  margin-top: 10px;
+}
